@@ -7,5 +7,4 @@ setInterval(function() {
             text.value  += `${inp[i].value},`;
         }
     }
-    
 }, 1000);
